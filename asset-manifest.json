@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Panda-Pages/static/css/main.bcf46939.chunk.css",
+    "main.js": "/Panda-Pages/static/js/main.66cc32cd.chunk.js",
+    "main.js.map": "/Panda-Pages/static/js/main.66cc32cd.chunk.js.map",
+    "runtime-main.js": "/Panda-Pages/static/js/runtime-main.6b64b4fd.js",
+    "runtime-main.js.map": "/Panda-Pages/static/js/runtime-main.6b64b4fd.js.map",
+    "static/js/2.7ccb3a28.chunk.js": "/Panda-Pages/static/js/2.7ccb3a28.chunk.js",
+    "static/js/2.7ccb3a28.chunk.js.map": "/Panda-Pages/static/js/2.7ccb3a28.chunk.js.map",
+    "index.html": "/Panda-Pages/index.html",
+    "precache-manifest.ed8e2e38a823028271622f3f6fcda4dc.js": "/Panda-Pages/precache-manifest.ed8e2e38a823028271622f3f6fcda4dc.js",
+    "service-worker.js": "/Panda-Pages/service-worker.js",
+    "static/css/main.bcf46939.chunk.css.map": "/Panda-Pages/static/css/main.bcf46939.chunk.css.map",
+    "static/js/2.7ccb3a28.chunk.js.LICENSE.txt": "/Panda-Pages/static/js/2.7ccb3a28.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Panda-Pages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b64b4fd.js",
+    "static/js/2.7ccb3a28.chunk.js",
+    "static/css/main.bcf46939.chunk.css",
+    "static/js/main.66cc32cd.chunk.js"
+  ]
+}
